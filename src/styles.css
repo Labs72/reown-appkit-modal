@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.open-modal {
+    font-family: Arial;
+    font-weight: bold;
+    border-width: 0;
+    color: white;
+    background-color: rgb(11, 14, 189);
+    margin-top: 200px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+}
